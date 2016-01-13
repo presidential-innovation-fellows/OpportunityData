@@ -1,6 +1,6 @@
 # Open Opportunity Data
 
-A collection of resources for developers of tools related to opportunity mobility.
+A collection of resources for developers of tools related to opportunity and mobility.
 
 * Staging (GitHub Pages): http://ood-beta.pif.gov
 * Production (AWS S3/CloudFront): https://ood.pif.gov
